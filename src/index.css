@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.div-image{
+  background-image: url(/public/music.jpg);
+}
+.lighttheme{
+  background-color: white;
+}
+.darktheme{
+  background-color: black;
+}
